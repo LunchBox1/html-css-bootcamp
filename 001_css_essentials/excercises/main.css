@@ -1,0 +1,22 @@
+.firstDiv {
+    width: 400px;
+    height: 200px;
+    background-color: plum;
+    border: 40px dashed red;
+    margin: 20px auto;
+    background-image: url(../../../../../Pictures/logo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.secondDiv {
+    width: 400px;
+    height: 200px;
+    background-color: plum;
+    border: 40px dashed red;
+    margin: 20px auto;
+    box-sizing: border-box;
+    background-image: url(../../../../../Pictures/logo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
